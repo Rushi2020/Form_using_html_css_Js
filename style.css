@@ -1,0 +1,32 @@
+.header{
+    width: 50%;
+    border: 2px solid;
+    color:black;
+    background-color: orange;
+    height: 25px;
+    text-align: center;
+    margin: auto;
+
+}
+.content{
+ display: contents;
+ display: flex;
+}
+div{
+    align-items: center;
+    position: relative;
+    
+}
+.form{
+    margin-top: 20px;
+    padding-left: 184px
+    /* position: relative; */
+}
+input{
+    flex: auto;
+    
+}
+label{
+    text-align: right;
+    margin-right: 2%;
+}
